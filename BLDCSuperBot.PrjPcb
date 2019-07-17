@@ -38,13 +38,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=MotorController.schdoc
+DocumentPath=BLDCSuperBot.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -52,10 +52,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EGDMYVHA
+DocumentUniqueId=
 
 [Document2]
-DocumentPath=BrushlessMiniModule.PcbDoc
+DocumentPath=BLDCSuperBot.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YSEHKKWK
 
 [Document3]
-DocumentPath=MotorController.OutJob
+DocumentPath=BLDCSuperBot.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EGDMYVHA
 
 [Configuration1]
 Name=Sources
